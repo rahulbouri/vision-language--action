@@ -1,0 +1,3 @@
+[submodule "dataset_for_VLA"]
+	path = dataset_for_VLA
+	url = https://github.com/trustmlyoungscientist/dataset_for_VLA.git
